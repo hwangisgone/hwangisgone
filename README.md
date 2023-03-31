@@ -2,7 +2,7 @@
 
 There's not much here since I'm still learning.
 
-Currently having fun with Rust 🦀
+Currently having fun with [Rust 🦀](https://www.rust-lang.org)
 
 🌱 Hope you have a great day!
 
