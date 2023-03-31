@@ -1,6 +1,7 @@
-## Hi! I'm Hwang 🐳.
+## Hi! I'm Hwang 🐳
 
 There's not much here since I'm still learning.
+
 Currently having fun with Rust 🦀
 
 🌱 Hope you have a great day!
