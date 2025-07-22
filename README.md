@@ -7,4 +7,4 @@ Currently having fun with
 
 🌱 Hope you have a great day!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hwangisgone&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hwangisgone&theme=dark)](https://git.io/streak-stats)
